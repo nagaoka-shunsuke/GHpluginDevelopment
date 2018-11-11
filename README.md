@@ -5,7 +5,7 @@ A Little Tutorial for Development of Rhinoceros 6 - Grasshopper Plug-In with Vis
 1. Download test.  
 2. Read GHPluginDevelopment.pdf  
   
-The pdf file may be too large to preview on smartphone.
+The pdf file may be too large to preview from mobile version.
 
 ## Contact
 Should you have any questions, opinions or anything else, please feel free to contact me.   
