@@ -6,5 +6,5 @@ A Little Tutorial for Development of Rhinoceros 6 - Grasshopper Plug-In with Vis
 2. Read GHPluginDevelopment.pdf
 
 ## Contact
-Should you have any questions please feel free to contact me at anytime. 
+Should you have any questions please feel free to contact me at anytime.   
 Twitter:@sn_pluso
